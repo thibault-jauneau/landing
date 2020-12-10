@@ -1,0 +1,14 @@
+#givebtn{
+  background-color: #FFFF00;
+  margin: 0px;
+  padding: 0px 20px;
+  height: inherit;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+  color: rgb(10,10,10);
+}
+#givebtn:hover {
+  color: #EF8200;
+}

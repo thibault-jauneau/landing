@@ -1,0 +1,14 @@
+#logo{
+  background-color: rgb(30,30,30);
+  margin: 0px;
+  padding: 0px 20px;
+  height: inherit;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+  color: white;
+}
+#logo:hover {
+  color: #EF8200;
+}

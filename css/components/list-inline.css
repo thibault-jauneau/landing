@@ -1,0 +1,14 @@
+.list-inline{
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0px;
+  object-position: center;
+}
+.list-inline li{
+  text-decoration: none;
+  list-style: none;
+  margin: 0px;
+}

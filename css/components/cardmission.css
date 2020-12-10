@@ -1,0 +1,24 @@
+.cardmission{
+  text-align: center;
+  padding: 20px;
+  border-right: 1px solid rgba(0,0,0,0.6);
+  border-left: 1px solid rgba(0,0,0,0.6);
+}
+@media (min-width: 721px){
+  .cardmission{
+    height: 210px;
+    width: 350px;
+  }
+}
+@media (max-width: 720px){
+  .cardmission{
+    height: 270px;
+    width: 250px;
+  }
+}
+@media (max-width: 540px){
+  .cardmission{
+    height: 470px;
+    width: 150px;
+  }
+}

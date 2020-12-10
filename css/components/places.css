@@ -1,0 +1,16 @@
+@media (min-width: 541px){
+    .places{
+      position: center;
+      width: inherit;
+      height: inherit;
+      border-radius: 6px;
+  }
+}
+@media (max-width: 540px){
+    .places{
+      position: left;
+      width: 150px;
+      border-radius: 6px;
+      margin: 30px 10px;
+  }
+}

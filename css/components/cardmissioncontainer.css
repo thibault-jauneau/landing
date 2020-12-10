@@ -1,0 +1,14 @@
+@media(min-width: 541px){
+  .cardmissioncontainer{
+      display: flex;
+      align-items : center;
+      justify-content: space-around;
+  }
+}
+@media(max-width: 540px){
+  .cardmissioncontainer{
+      display: flex;
+      align-items : center;
+      justify-content: space-around;
+  }
+}

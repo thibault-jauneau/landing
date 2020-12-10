@@ -1,0 +1,31 @@
+.card{
+  padding: 0px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  border-radius: 6px;
+}
+@media (min-width: 721px){
+  .card{
+    height: inherit;
+    width: 213px;
+    margin: 20px 10px;
+  }
+}
+@media (max-width: 720px) {
+  .card{
+    height: inherit;
+    width: 146px;
+    margin: 20px 10px;
+  }
+}
+@media (max-width: 540px) {
+  .card{
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 280px;
+    margin: 20px 10px;
+  }
+  .card h3{
+    flex-grow: 1;
+  }
+}

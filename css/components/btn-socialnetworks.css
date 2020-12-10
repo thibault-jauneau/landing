@@ -1,0 +1,9 @@
+.btn-socialnetworks{
+  color: white;
+  font-size: 30px;
+  padding: 10px 10px;
+  margin: 10px 20px;
+}
+.btn-socialnetworks:hover{
+  color: #EF8200;
+}
